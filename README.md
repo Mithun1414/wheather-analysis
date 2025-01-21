@@ -1,0 +1,2 @@
+WHEATHER ANALYSIS:
+                    he **Weather Data Analysis Dashboard** is a Python-based web application built with **Streamlit** that allows users to analyze real-time weather data for a given city. The application pulls data from the **OpenWeatherMap API** and presents key weather information in an interactive dashboard. Users can view temperature, humidity, pressure, wind speed, and more. Additionally, a simple bar chart is displayed for temperature analysis
